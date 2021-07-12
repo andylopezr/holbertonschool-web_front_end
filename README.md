@@ -1,4 +1,4 @@
-# holbertonschool-web_front_end
+# Full-stack Web Development
 <img src="http://www.glajumedia.com/wp-content/uploads/2020/07/front-end-development-flat_107173-16796.jpg">
 Learning advance skills in front-end, back-end and React development, mastering in demand frameworks
 
