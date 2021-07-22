@@ -1,5 +1,5 @@
 # 0x01. Developer tools
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiMKbyA8DaKgF20njlx7LC7hcZNoVrG9l0Eg&usqp=CAU">
+<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/87698386/original/3e38900e6c965aae8d1e3bde7c2c0a4164e1ae77/do-web-development-html-js-css-bootstrap-ajax-jquery.jpg">
 This is an overview project for the Developer tools for browsers.
 
 ## Learning Objectives
