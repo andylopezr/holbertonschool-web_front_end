@@ -19,10 +19,10 @@ This is an overview project for advanced CSS tools and styling.
 
 ## File Descriptions
 
-[images/](images/) - Let's get some images!
-[styles/1-style.css](styles/1-style.css) - Effortless transitions when scrolling
-[styles/2-style.css](styles/2-style.css) - Do you know your color values?
-[styles/3-style.css](styles/3-style.css) - Reuse and repeat. A programmer's life should be simple with variables
+* [images/](images/) - Let's get some images!
+* [styles/1-style.css](styles/1-style.css) - Effortless transitions when scrolling
+* [styles/2-style.css](styles/2-style.css) - Do you know your color values?
+* [styles/3-style.css](styles/3-style.css) - Reuse and repeat. A programmer's life should be simple with variables
 
 []() -
 []() -
