@@ -1,5 +1,5 @@
 # 0x02. Advanced CSS
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/ce6718f1b55e6c1580c6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210729T221647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e477775397e46042360ce471f2ace7e1ac7a4497d2a04a5835c7ef8dc9081198">
+<img src="https://www.solucionex.com/sites/default/files/posts/imagen/css_blog.png">
 This is an overview project for advanced CSS tools and styling.
 
 ## Learning Objectives
