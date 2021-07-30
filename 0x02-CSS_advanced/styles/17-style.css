@@ -92,6 +92,11 @@ a:active {
     padding: var(--section-footer-padding);
 }
 
+.section-footer {
+    padding: var(--section-footer-padding);
+    text-align: var(--section-footer-align);
+  }
+
 .section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
