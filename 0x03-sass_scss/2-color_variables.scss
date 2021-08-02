@@ -1,0 +1,12 @@
+/* Assigns text and background color to body, p and h2 tags */
+$dark-gray: #3D3D3D;
+$light-gray: #6D6D6D;
+body {
+    color: $dark-gray; 
+    background-color: $light-gray}
+    
+p {
+    color: $dark-gray;}
+
+h2 {
+    background-color: $light-gray; }
