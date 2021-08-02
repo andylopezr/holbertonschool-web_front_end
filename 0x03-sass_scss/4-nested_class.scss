@@ -1,7 +1,11 @@
 /* Assigns color to body elements using nested declarations */
 $dark-gray: #3D3D3D;
 $red: #FF0000;
+
 body {
-    color: $dark-gray; }
-    body .red {
-      color: $red; }
+    color: $dark-gray;
+
+    .red {
+        color: $red;
+    }
+}
