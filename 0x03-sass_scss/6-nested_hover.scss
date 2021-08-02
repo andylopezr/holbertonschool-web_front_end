@@ -1,0 +1,11 @@
+/* assigns rules to button tags with nested declarations */
+$red: #FF0000;
+$green: #00FF00;
+
+button {
+    color: $red;
+
+    :hover {
+        color: $green;
+    }
+}
