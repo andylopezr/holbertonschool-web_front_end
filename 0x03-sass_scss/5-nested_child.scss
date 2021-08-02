@@ -1,0 +1,11 @@
+/* assigns color to children elements using nested declarations */
+$dark-gray: #3D3D3D;
+$red: #FF0000;
+
+body {
+    color: $dark-gray;
+
+    > .red {
+        color: $red;
+    }
+}
