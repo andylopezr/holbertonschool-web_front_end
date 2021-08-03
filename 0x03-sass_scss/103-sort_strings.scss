@@ -1,0 +1,14 @@
+/* sorts variable items and prints it in debug using each*/
+@import './103-sort_list';
+$sorted: ();
+$alphabet: a b c d e f g h i j k l m n o p q r s t u v w x y z;
+
+@each $letter in $alphabet {
+    @each $name in $list_to_sort {
+        @if str-slice($name, 1, 1)==$letter {
+            $sorted: append($sorted, $name)
+        }
+    }
+}
+
+@debug $sorted;
