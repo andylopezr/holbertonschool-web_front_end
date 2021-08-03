@@ -1,0 +1,16 @@
+/* assigns font size to classes using extend */
+$red: #FF0000;
+$green: #00FF00;
+.info {
+    font-size: 12px;
+}
+
+.success {
+    @extend .info;
+    color: $green;
+}
+
+.warning {
+    @extend .info;
+    color: $red;
+}
