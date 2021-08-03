@@ -1,0 +1,10 @@
+/* assigns font sizes to h1 tags media query when < 320px */
+h1 {
+    font-size: 20px;
+
+    @media screen and (max-width: 320px) {
+        h1 {
+            font-size: 14px;
+        }
+    }
+}
