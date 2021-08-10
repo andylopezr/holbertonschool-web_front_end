@@ -14,9 +14,6 @@ This is an overview project on creating HTML5 forms
 
 ## File Descriptions
 
-* Starting file
-    * [00-article.html](00-article.html) 
-
 0. basic comment structure
     * [01-article.html](01-article.html) 
     * [01-styles.css](01-styles.css)
@@ -45,14 +42,5 @@ This is an overview project on creating HTML5 forms
     * [07-article.html](07-article.html) 
     * [07-styles.css](07-styles.css)
 
-
-[]() -
-[]() -
-[]() -
-[]() -
-[]() -
-[]() -
-[]() -
-
 ## Authors
-Andres Lopez - [Github](https://github.com/andylopezr) / [Twitter](https://twitter.com/_andy_lopez_) [LinkedIn](https://www.linkedin.com/in/andreslopezruiz/)
+Andres Lopez - [Github](https://github.com/andylopezr) / [Twitter](https://twitter.com/_andy_lopez_) / [LinkedIn](https://www.linkedin.com/in/andreslopezruiz/)
